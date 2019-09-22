@@ -42,6 +42,6 @@ $(sed 's/\,/\./g' out.09 | sed 's/\;/\,/g' > data.csv)
 
 $(rm -f out.*)
 
-echo final....
+#echo final....
 
 
